@@ -1,0 +1,7 @@
+&control
+ file_co_name = "data_co.dat",
+ file_fi_name = "data_fi.dat"
+ var_begin = -1.5,
+ var_end = 10,
+ var_step = 0.1,
+/
